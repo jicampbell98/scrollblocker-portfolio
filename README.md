@@ -1,4 +1,5 @@
-# ScrollBlocker 🖱️
+# ScrollBlocker 🖱️  
+[🌐 Visit Live Site](https://scrollblocker.carrd.co/)
 
 **ScrollBlocker** is a lightweight Windows utility I built to stop accidental zooming or side-scrolling in apps like Excel, Photoshop, and browsers.
 
@@ -8,10 +9,10 @@
 
 ## 🚀 Features
 
-- Blocks Ctrl+Scroll zooming
-- Stops sideways scrolling on touchpads
-- Per-app whitelist with icons
-- Runs quietly in the tray
+- Blocks Ctrl+Scroll zooming  
+- Stops sideways scrolling on touchpads  
+- Per-app whitelist with icons  
+- Runs quietly in the tray  
 - Beautiful custom UI using `ttkbootstrap`
 
 ---
@@ -26,12 +27,12 @@
 
 ## 🛠️ Built With
 
-- Python 3.12
-- `tkinter`, `ctypes`, `pystray`, `ttkbootstrap`
+- Python 3.12  
+- `tkinter`, `ctypes`, `pystray`, `ttkbootstrap`  
 - Packaged with PyInstaller
 
 ---
 
 ## 👨‍💻 Author
 
-Built with ❤️ by [Juan Campbell](https://github.com/yourusername)
+Built with ❤️ by [Juan Campbell](https://github.com/jicampbell98)
