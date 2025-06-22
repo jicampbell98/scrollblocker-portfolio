@@ -18,9 +18,9 @@
 
 ## 🖼️ Screenshots
 
-| Settings UI | Tray Icon |
-|-------------|-----------|
-| ![Settings UI](images/Settings.jpg) | ![Tray Icon](images/toggle-on.ico) |
+| Settings UI |
+|-------------|
+| ![Settings UI](images/Settings.jpg) |
 
 ---
 
