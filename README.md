@@ -10,7 +10,6 @@
 ## 🚀 Features
 
 - Blocks Ctrl+Scroll zooming  
-- Stops sideways scrolling on touchpads  
 - Per-app whitelist with icons  
 - Runs quietly in the tray  
 - Beautiful custom UI using `ttkbootstrap`
