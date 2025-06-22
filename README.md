@@ -20,7 +20,7 @@
 
 | Settings UI | Tray Icon |
 |-------------|-----------|
-| ![Settings UI](images/settings.png) | ![Tray Icon](images/tray.png) |
+| ![Settings UI](images/Settings.jpg) | ![Tray Icon](images/toggle-on.ico) |
 
 ---
 
